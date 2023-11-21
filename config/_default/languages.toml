@@ -2,10 +2,10 @@
 [en]
 languageName = "English"
 languagedirection = "ltr"
-title = "Example Site"
+title = "Example Site - English"
 weight = 1
 [zh-cn]
 languageName = "Chinese"
 languagedirection = "ltr"
-title = "Example Site"
+title = "Example Site - Chinese"
 weight = 1
