@@ -4,15 +4,15 @@ on:
     push:
         branches: [master]
         paths:
-            - content/
-            - config/
-            - static/
+            - 'content/**'
+            - 'config/**'
+            - 'static/**'
     pull_request:
         branches: [master]
         paths:
-            - content/
-            - config/
-            - static/
+            - 'content/**'
+            - 'config/**'
+            - 'static/**'
 
 jobs:
     build:
