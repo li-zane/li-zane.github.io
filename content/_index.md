@@ -6,3 +6,7 @@ menu:
         params:
             icon: home
 ---
+
+# 网站主页
+
+test
